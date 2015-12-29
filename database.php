@@ -8,8 +8,8 @@
 
 $db_host = 'localhost';
 $db_name = 'quizzer';
-$db_username = 'ahmed';
-$db_password = 'a';
+$db_username = '';
+$db_password = '';
 
 $mysqli = new mysqli($db_host , $db_username , $db_password , $db_name);
 
